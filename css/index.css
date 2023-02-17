@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(244, 200, 255);
+    font-family:'Segoe UI';
+ 
+}
+.logo-text{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+input[type="search"]{
+    border: none;
+}
+.plus{
+    font-size: 10px;
+    padding: 10px ;
+    background: linear-gradient(101.67deg, rgb(75, 63, 209) 7.24%, rgb(226, 69, 213) 34%, rgb(9, 243, 224) 92%);
+}
+.albums a{
+    color: rgb(141, 71, 118);
+}

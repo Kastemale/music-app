@@ -1,0 +1,15 @@
+header{
+    background-color: rgb(205, 180, 219);
+}
+header .nav-link{
+    color: rgb(0, 1, 2);
+}
+header .nav-link:hover{
+    color: rgb(218, 7, 77);
+}
+header .nav-link:active{
+    color: rgb(204, 95, 33);
+}
+header .nav-link:focus{
+    color: rgb(218, 7, 77);
+}
